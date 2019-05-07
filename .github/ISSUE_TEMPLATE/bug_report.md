@@ -1,11 +1,3 @@
----
-name: Bug report
-about: Create a report to identify a potential issue
-title: ''
-labels: Bug
-assignees: ''
-
----
 # XRTK - Mixed Reality Toolkit Bug Report
 
 ## Describe the bug
@@ -14,14 +6,12 @@ assignees: ''
 
 ## To Reproduce
 
-Include Steps to reproduce the behavior:
+<!-- Include Steps to reproduce the behavior: -->
 
-<!-- 
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error -->
--->
+4. See error
 
 ## Expected behavior
 
