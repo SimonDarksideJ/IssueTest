@@ -1,35 +1,52 @@
 ---
-name: Feature request
-about: Suggest an idea for the XRTK
+name: Bug report
+about: Create a report to identify a potential issue
 title: ''
-labels: Feature Request
+labels: Bug
 assignees: ''
 
 ---
-# XRTK - Mixed Reality Toolkit Feature Request
+# XRTK - Mixed Reality Toolkit Bug Report
 
-## Is your feature request related to a problem? Please describe
+## Describe the bug
 
-<!-- Please provide a clear and concise description of what the problem is.
-E.g. I'm always frustrated when [...] ..>
+<!-- Please provide a clear and concise description of what the bug is. -->
 
-## How would you classify your suggestion
+## To Reproduce
 
-What type of enhancement is it, e.g:
+Include Steps to reproduce the behavior:
+
 <!-- 
-- New platform support
-- Usability / Configuration
-- Architecture / Services
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error -->
 -->
 
-## Describe the solution you'd like
+## Expected behavior
 
-<!-- A clear and concise description of what you want to happen.-->
+<!--  A clear and concise description of what you expected to happen. -->
 
-## Describe alternatives you've considered
+## Actual behavior
 
-<!-- A clear and concise description of any alternative solutions or features you've considered.-->
+<!-- What is actually happening -->
+
+## Screenshots
+
+<!-- If applicable, add screenshots to help explain your problem. -->
+
+## Your Setup (please complete the following information)
+
+- Unity Version [e.g. 2019.1.0f2]
+- XRTK Version [e.g. 0.1.8]
+
+## Target Platform (please complete the following information)
+
+- WMR immersive
+- OpenVR
+- HoloLens
+- Lumin (Magic Leap)
 
 ## Additional context
 
-<!-- Add any other context or screenshots about the feature request here. -->
+<!--  Add any other context about the problem here. -->
